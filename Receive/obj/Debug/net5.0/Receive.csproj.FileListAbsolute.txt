@@ -1,0 +1,17 @@
+/Users/BeilkeF/Documents/Receive/bin/Debug/net5.0/Receive.deps.json
+/Users/BeilkeF/Documents/Receive/bin/Debug/net5.0/Receive.runtimeconfig.json
+/Users/BeilkeF/Documents/Receive/bin/Debug/net5.0/Receive.runtimeconfig.dev.json
+/Users/BeilkeF/Documents/Receive/bin/Debug/net5.0/Receive.dll
+/Users/BeilkeF/Documents/Receive/bin/Debug/net5.0/ref/Receive.dll
+/Users/BeilkeF/Documents/Receive/bin/Debug/net5.0/Receive.pdb
+/Users/BeilkeF/Documents/Receive/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.csprojAssemblyReference.cache
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.AssemblyInfoInputs.cache
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.AssemblyInfo.cs
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.csproj.CoreCompileInputs.cache
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.csproj.CopyComplete
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.dll
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/ref/Receive.dll
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.pdb
+/Users/BeilkeF/Documents/Receive/obj/Debug/net5.0/Receive.genruntimeconfig.cache

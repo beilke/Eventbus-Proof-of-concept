@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yceTbRr4Z1ukfdJcSIMmgA4w7dl1Q0N/w8mfRxRFEZ2u1YXDdhGzxNjMx50m9ztpa3gQLz6QuX/i8QRbs5qYbw==",
+  "success": true,
+  "projectFilePath": "/Users/BeilkeF/Documents/Send/Send.csproj",
+  "expectedPackageFiles": [
+    "/Users/BeilkeF/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/Users/BeilkeF/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/BeilkeF/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
